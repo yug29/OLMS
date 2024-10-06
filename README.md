@@ -14,7 +14,7 @@ This repository contains the source code and implementation of an **Online Learn
 The **Online Learning Management System (OLMS)** is a web-based application designed to manage and deliver educational content and training materials efficiently. It allows administrators to create and manage courses, users, and track progress. Users can access courses, view content, and complete assessments. Additionally, it offers subscription management through Razorpay, allowing users to purchase and cancel subscriptions seamlessly.
 
 ## Preview
-You can preview the project at **[Preview Link]**.
+You can preview the project at Preview Link
 
 ## Features
 - User authentication and authorization
