@@ -2,13 +2,14 @@
 This repository contains the source code and implementation of an **Online Learning Management System (OLMS)** developed using the MERN stack (MongoDB, Express.js, React, Node.js) along with Tailwind CSS and DaisyUI for styling, Cloudinary for managing media, and Razorpay for subscription management.
 
 ## Table of Contents
-[Overview
+[Overview 
 Preview
 Features
 Prerequisites
 Installation
 Usage
-Subscription Management](https://github.com/Sukomal07/learning-management-system#installation)
+Subscription Management]
+(https://github.com/Sukomal07/learning-management-system#installation)
 
 ## Overview
 The **Online Learning Management System (OLMS)** is a web-based application designed to manage and deliver educational content and training materials efficiently. It allows administrators to create and manage courses, users, and track progress. Users can access courses, view content, and complete assessments. Additionally, it offers subscription management through Razorpay, allowing users to purchase and cancel subscriptions seamlessly.
